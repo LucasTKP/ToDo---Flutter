@@ -23,24 +23,24 @@ Repositório de um projeto que criei para aprimorar meus conhecimentos durante u
 </div>
 
 <div align="left"> 
-   <strong>01. Manipulação de array</strong>
+   <strong>01. Manipulação de array.</strong>
 </div>
 
 <div align="left"> 
-   <strong>02. Utilização de setState</strong>
+   <strong>02. Utilização de setState.</strong>
 </div>
 
 
 <div align="left"> 
-   <strong>03. Manipulação de TextField</strong>
+   <strong>03. Manipulação de TextField.</strong>
 </div>
 
 <div align="left"> 
-   <strong>04. Manipulação de botões:</strong> 
+   <strong>04. Manipulação de botões.</strong> 
 
 
 <div align="left"> 
-   <strong>05. Exibição de arrays utilizando ListView:</strong>
+   <strong>05. Exibição de arrays utilizando ListView.</strong>
 </div>
 
 <br />
