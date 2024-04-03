@@ -1,6 +1,6 @@
 <h1 align="center">ToDo</h1>
 <div>
-Repositório de um projeto que criei durante um curso que fiz. Seu objetivo é criar um aplicativo que organize tarefas.
+Repositório de um projeto que criei durante um curso. Seu objetivo é criar um aplicativo que organize tarefas.
 </div>  
   
 
